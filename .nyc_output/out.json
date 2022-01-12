@@ -1,0 +1,1285 @@
+{
+  "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/shared/dishes.tsx": {
+    "path": "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/shared/dishes.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 1,
+          "column": 22
+        },
+        "end": {
+          "line": 157,
+          "column": 2
+        }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {
+      "0": 4
+    },
+    "f": {},
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": "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",
+      "names": [
+        "DISHES",
+        "id",
+        "name",
+        "image",
+        "category",
+        "label",
+        "price",
+        "description",
+        "comments",
+        "rating",
+        "comment",
+        "author",
+        "date"
+      ],
+      "sources": [
+        "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/shared/dishes.tsx"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "134735dafe715db4f3714203ed91511d280e4c1f"
+  },
+  "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/HeaderComponent.tsx": {
+    "path": "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/HeaderComponent.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 1,
+          "column": 19
+        },
+        "end": {
+          "line": 1,
+          "column": 117
+        }
+      },
+      "1": {
+        "start": {
+          "line": 7,
+          "column": 4
+        },
+        "end": {
+          "line": 107,
+          "column": 13
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 6,
+            "column": 2
+          },
+          "end": {
+            "line": 6,
+            "column": 3
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 11
+          },
+          "end": {
+            "line": 108,
+            "column": 3
+          }
+        },
+        "line": 6
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 4,
+      "1": 9
+    },
+    "f": {
+      "0": 9
+    },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": ";AAAA;AACA;;AAQA,oCAAoCA,MAAMC,UAAsC;AAAA,EACvEC,SAAS;AACd,WACE;AAAA,gBACE,wBAAC,QAAD;AAAA,QAAQ,IAAG;AAAA,QAAX,UACE,wBAAC,WAAD;AAAA,qBACE,wBAAC,OAAO,OAAR;AAAA,YAAc,MAAK;AAAA,YAAnB;AAAA;AAAA;AAAA;AAAA;AAAA,oBACA,wBAAC,OAAO,QAAR;AAAA,YAAe,iBAAc;AAAA,aAA7B;AAAA;AAAA;AAAA;AAAA,oBACA,wBAAC,OAAO,UAAR;AAAA,YAAiB,IAAG;AAAA,YAApB,UACE,wBAAC,KAAD;AAAA,cAAK,WAAU;AAAA,cAAf,WACE,wBAAC,IAAI,MAAL;AAAA,gBAAU,MAAK;AAAA,gBAAf;AAAA;AAAA;AAAA;AAAA;AAAA,wBACA,wBAAC,IAAI,MAAL;AAAA,gBAAU,MAAK;AAAA,gBAAf;AAAA;AAAA;AAAA;AAAA;AAAA,wBACA,wBAAC,aAAD;AAAA,gBAAa,OAAM;AAAA,gBAAW,IAAG;AAAA,gBAAjC,WACE,wBAAC,YAAY,MAAb;AAAA,kBAAkB,MAAK;AAAA,kBAAvB;AAAA;AAAA;AAAA;AAAA;AAAA,0BACA,wBAAC,YAAY,MAAb;AAAA,kBAAkB,MAAK;AAAA,kBAAvB;AAAA;AAAA;AAAA;AAAA;AAAA,0BACA,wBAAC,YAAY,MAAb;AAAA,kBAAkB,MAAK;AAAA,kBAAvB;AAAA;AAAA;AAAA;AAAA;AAAA,0BACA,wBAAC,YAAY,SAAb;AAAA;AAAA;AAAA;AAAA,0BACA,wBAAC,YAAY,MAAb;AAAA,kBAAkB,MAAK;AAAA,kBAAvB;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,iBALF;AAAA;AAAA;AAAA;AAAA;AAAA,eAHF;AAAA;AAAA;AAAA;AAAA;AAAA,aADF;AAAA;AAAA;AAAA;AAAA;AAAA,WAHF;AAAA;AAAA;AAAA;AAAA;AAAA,SADF;AAAA;AAAA;AAAA;AAAA;AAAA,OADF;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;",
+      "names": [
+        "React",
+        "Component",
+        "render"
+      ],
+      "sources": [
+        "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/HeaderComponent.tsx"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "e2a68125ddd63c12eb6eacaeea728294ec7c85c9"
+  },
+  "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/FooterComponent.tsx": {
+    "path": "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/FooterComponent.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 1,
+          "column": 19
+        },
+        "end": {
+          "line": 1,
+          "column": 117
+        }
+      },
+      "1": {
+        "start": {
+          "line": 6,
+          "column": 4
+        },
+        "end": {
+          "line": 18,
+          "column": 13
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 2
+          },
+          "end": {
+            "line": 5,
+            "column": 3
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 11
+          },
+          "end": {
+            "line": 19,
+            "column": 3
+          }
+        },
+        "line": 5
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 4,
+      "1": 9
+    },
+    "f": {
+      "0": 9
+    },
+    "b": {},
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": ";AAAA;;AAQA,oCAAoCA,MAAMC,UAAsC;AAAA,EACvEC,SAAS;AACd,WACE;AAAA,gBACG;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,OADH;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;",
+      "names": [
+        "React",
+        "Component",
+        "render"
+      ],
+      "sources": [
+        "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/FooterComponent.tsx"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "763d121e5116127027f1b7e49ab0a7afcb15e7f3"
+  },
+  "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/MainComponent.tsx": {
+    "path": "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/MainComponent.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 14,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 7,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 6,
+          "column": 4
+        },
+        "end": {
+          "line": 6,
+          "column": 165
+        }
+      },
+      "3": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 8,
+          "column": 39
+        }
+      },
+      "4": {
+        "start": {
+          "line": 9,
+          "column": 2
+        },
+        "end": {
+          "line": 9,
+          "column": 39
+        }
+      },
+      "5": {
+        "start": {
+          "line": 10,
+          "column": 2
+        },
+        "end": {
+          "line": 12,
+          "column": 4
+        }
+      },
+      "6": {
+        "start": {
+          "line": 11,
+          "column": 4
+        },
+        "end": {
+          "line": 11,
+          "column": 138
+        }
+      },
+      "7": {
+        "start": {
+          "line": 13,
+          "column": 2
+        },
+        "end": {
+          "line": 13,
+          "column": 75
+        }
+      },
+      "8": {
+        "start": {
+          "line": 15,
+          "column": 19
+        },
+        "end": {
+          "line": 15,
+          "column": 115
+        }
+      },
+      "9": {
+        "start": {
+          "line": 21,
+          "column": 15
+        },
+        "end": {
+          "line": 21,
+          "column": 21
+        }
+      },
+      "10": {
+        "start": {
+          "line": 22,
+          "column": 23
+        },
+        "end": {
+          "line": 28,
+          "column": 2
+        }
+      },
+      "11": {
+        "start": {
+          "line": 29,
+          "column": 13
+        },
+        "end": {
+          "line": 79,
+          "column": 1
+        }
+      },
+      "12": {
+        "start": {
+          "line": 30,
+          "column": 2
+        },
+        "end": {
+          "line": 78,
+          "column": 11
+        }
+      },
+      "13": {
+        "start": {
+          "line": 39,
+          "column": 26
+        },
+        "end": {
+          "line": 63,
+          "column": 12
+        }
+      },
+      "14": {
+        "start": {
+          "line": 80,
+          "column": 0
+        },
+        "end": {
+          "line": 80,
+          "column": 10
+        }
+      },
+      "15": {
+        "start": {
+          "line": 83,
+          "column": 0
+        },
+        "end": {
+          "line": 83,
+          "column": 25
+        }
+      },
+      "16": {
+        "start": {
+          "line": 84,
+          "column": 0
+        },
+        "end": {
+          "line": 94,
+          "column": 1
+        }
+      },
+      "17": {
+        "start": {
+          "line": 85,
+          "column": 2
+        },
+        "end": {
+          "line": 85,
+          "column": 39
+        }
+      },
+      "18": {
+        "start": {
+          "line": 86,
+          "column": 2
+        },
+        "end": {
+          "line": 86,
+          "column": 39
+        }
+      },
+      "19": {
+        "start": {
+          "line": 87,
+          "column": 2
+        },
+        "end": {
+          "line": 87,
+          "column": 27
+        }
+      },
+      "20": {
+        "start": {
+          "line": 88,
+          "column": 2
+        },
+        "end": {
+          "line": 93,
+          "column": 3
+        }
+      },
+      "21": {
+        "start": {
+          "line": 89,
+          "column": 4
+        },
+        "end": {
+          "line": 92,
+          "column": 11
+        }
+      },
+      "22": {
+        "start": {
+          "line": 90,
+          "column": 6
+        },
+        "end": {
+          "line": 90,
+          "column": 45
+        }
+      },
+      "23": {
+        "start": {
+          "line": 91,
+          "column": 6
+        },
+        "end": {
+          "line": 91,
+          "column": 43
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 10,
+            "column": 24
+          },
+          "end": {
+            "line": 10,
+            "column": 25
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 38
+          },
+          "end": {
+            "line": 12,
+            "column": 3
+          }
+        },
+        "line": 10
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 29,
+            "column": 13
+          },
+          "end": {
+            "line": 29,
+            "column": 14
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 29,
+            "column": 19
+          },
+          "end": {
+            "line": 79,
+            "column": 1
+          }
+        },
+        "line": 29
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 35,
+            "column": 25
+          },
+          "end": {
+            "line": 35,
+            "column": 26
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 39,
+            "column": 26
+          },
+          "end": {
+            "line": 63,
+            "column": 12
+          }
+        },
+        "line": 39
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 89,
+            "column": 52
+          },
+          "end": {
+            "line": 89,
+            "column": 53
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 89,
+            "column": 58
+          },
+          "end": {
+            "line": 92,
+            "column": 5
+          }
+        },
+        "line": 89
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 0
+          },
+          "end": {
+            "line": 14,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 4,
+              "column": 0
+            },
+            "end": {
+              "line": 14,
+              "column": 1
+            }
+          },
+          {
+            "start": {
+              "line": 4,
+              "column": 0
+            },
+            "end": {
+              "line": 14,
+              "column": 1
+            }
+          }
+        ],
+        "line": 4
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2
+          },
+          "end": {
+            "line": 7,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 5,
+              "column": 2
+            },
+            "end": {
+              "line": 7,
+              "column": 3
+            }
+          },
+          {
+            "start": {
+              "line": 5,
+              "column": 2
+            },
+            "end": {
+              "line": 7,
+              "column": 3
+            }
+          }
+        ],
+        "line": 5
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 84,
+            "column": 0
+          },
+          "end": {
+            "line": 94,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 84,
+              "column": 0
+            },
+            "end": {
+              "line": 94,
+              "column": 1
+            }
+          },
+          {
+            "start": {
+              "line": 84,
+              "column": 0
+            },
+            "end": {
+              "line": 94,
+              "column": 1
+            }
+          }
+        ],
+        "line": 84
+      },
+      "3": {
+        "loc": {
+          "start": {
+            "line": 88,
+            "column": 2
+          },
+          "end": {
+            "line": 93,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 88,
+              "column": 2
+            },
+            "end": {
+              "line": 93,
+              "column": 3
+            }
+          },
+          {
+            "start": {
+              "line": 88,
+              "column": 2
+            },
+            "end": {
+              "line": 93,
+              "column": 3
+            }
+          }
+        ],
+        "line": 88
+      }
+    },
+    "s": {
+      "0": 4,
+      "1": 4,
+      "2": 0,
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 4,
+      "7": 4,
+      "8": 4,
+      "9": 4,
+      "10": 4,
+      "11": 4,
+      "12": 13,
+      "13": 52,
+      "14": 4,
+      "15": 4,
+      "16": 4,
+      "17": 4,
+      "18": 4,
+      "19": 4,
+      "20": 4,
+      "21": 4,
+      "22": 4,
+      "23": 4
+    },
+    "f": {
+      "0": 4,
+      "1": 13,
+      "2": 52,
+      "3": 4
+    },
+    "b": {
+      "0": [
+        4,
+        0
+      ],
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        4,
+        0
+      ],
+      "3": [
+        4,
+        0
+      ]
+    },
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": ";;;;;;;;;;;;;;;AAEA;AACA;AAEA;AACA;;AAIA,MAAMA,SAASC;AACf,MAAMC,iBAAiB,CACrB;AAAA,EAAEC,QAAQ;AAAA,EAAaC,MAAM;AAAA,GAC7B;AAAA,EAAED,QAAQ;AAAA,EAAYC,MAAM;AAAA;AAG9B,MAAMC,OAAO,MAAM;AAEjB,SACI;AAAA,eACE,wBAAC,QAAD;AAAA;AAAA;AAAA;AAAA,cACCL,OAAOM,IACN,CAAC;AAAA,MAACC;AAAAA,MAAIC;AAAAA,MAAMC;AAAAA,UACV;AAAA,iBACF;AAAA,kBAAMF;AAAAA,SAAN;AAAA;AAAA;AAAA;AAAA,gBACA;AAAA,kBAAMC;AAAAA,SAAN;AAAA;AAAA;AAAA;AAAA,gBACA;AAAA,QAAK,KAAKC;AAAAA,SAAV;AAAA;AAAA;AAAA;AAAA;AAAA,OAHE;AAAA;AAAA;AAAA;AAAA,eAMJ,wBAAC,QAAD;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,cACA,wBAAC,QAAD;AAAA;AAAA;AAAA;AAAA;AAAA,KAXF;AAAA;AAAA;AAAA;AAAA;AAAA;KAHAJ;AAmBN,eAAeA;;;;;;;;;;;;;;",
+      "names": [
+        "dishes",
+        "DISHES",
+        "arrayOfObjects",
+        "coffee",
+        "size",
+        "Main",
+        "map",
+        "id",
+        "name",
+        "image"
+      ],
+      "sources": [
+        "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/components/MainComponent.tsx"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "4cfafccdc23198c99bd62c7108c32e196918c728"
+  },
+  "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/App.tsx": {
+    "path": "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/App.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 14,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 7,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 6,
+          "column": 4
+        },
+        "end": {
+          "line": 6,
+          "column": 165
+        }
+      },
+      "3": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 8,
+          "column": 39
+        }
+      },
+      "4": {
+        "start": {
+          "line": 9,
+          "column": 2
+        },
+        "end": {
+          "line": 9,
+          "column": 39
+        }
+      },
+      "5": {
+        "start": {
+          "line": 10,
+          "column": 2
+        },
+        "end": {
+          "line": 12,
+          "column": 4
+        }
+      },
+      "6": {
+        "start": {
+          "line": 11,
+          "column": 4
+        },
+        "end": {
+          "line": 11,
+          "column": 117
+        }
+      },
+      "7": {
+        "start": {
+          "line": 13,
+          "column": 2
+        },
+        "end": {
+          "line": 13,
+          "column": 75
+        }
+      },
+      "8": {
+        "start": {
+          "line": 15,
+          "column": 19
+        },
+        "end": {
+          "line": 15,
+          "column": 94
+        }
+      },
+      "9": {
+        "start": {
+          "line": 15,
+          "column": 101
+        },
+        "end": {
+          "line": 15,
+          "column": 115
+        }
+      },
+      "10": {
+        "start": {
+          "line": 22,
+          "column": 2
+        },
+        "end": {
+          "line": 22,
+          "column": 7
+        }
+      },
+      "11": {
+        "start": {
+          "line": 23,
+          "column": 28
+        },
+        "end": {
+          "line": 23,
+          "column": 39
+        }
+      },
+      "12": {
+        "start": {
+          "line": 24,
+          "column": 2
+        },
+        "end": {
+          "line": 35,
+          "column": 11
+        }
+      },
+      "13": {
+        "start": {
+          "line": 37,
+          "column": 0
+        },
+        "end": {
+          "line": 37,
+          "column": 40
+        }
+      },
+      "14": {
+        "start": {
+          "line": 38,
+          "column": 0
+        },
+        "end": {
+          "line": 38,
+          "column": 9
+        }
+      },
+      "15": {
+        "start": {
+          "line": 41,
+          "column": 0
+        },
+        "end": {
+          "line": 41,
+          "column": 24
+        }
+      },
+      "16": {
+        "start": {
+          "line": 42,
+          "column": 0
+        },
+        "end": {
+          "line": 52,
+          "column": 1
+        }
+      },
+      "17": {
+        "start": {
+          "line": 43,
+          "column": 2
+        },
+        "end": {
+          "line": 43,
+          "column": 39
+        }
+      },
+      "18": {
+        "start": {
+          "line": 44,
+          "column": 2
+        },
+        "end": {
+          "line": 44,
+          "column": 39
+        }
+      },
+      "19": {
+        "start": {
+          "line": 45,
+          "column": 2
+        },
+        "end": {
+          "line": 45,
+          "column": 27
+        }
+      },
+      "20": {
+        "start": {
+          "line": 46,
+          "column": 2
+        },
+        "end": {
+          "line": 51,
+          "column": 3
+        }
+      },
+      "21": {
+        "start": {
+          "line": 47,
+          "column": 4
+        },
+        "end": {
+          "line": 50,
+          "column": 11
+        }
+      },
+      "22": {
+        "start": {
+          "line": 48,
+          "column": 6
+        },
+        "end": {
+          "line": 48,
+          "column": 45
+        }
+      },
+      "23": {
+        "start": {
+          "line": 49,
+          "column": 6
+        },
+        "end": {
+          "line": 49,
+          "column": 43
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 10,
+            "column": 24
+          },
+          "end": {
+            "line": 10,
+            "column": 25
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 38
+          },
+          "end": {
+            "line": 12,
+            "column": 3
+          }
+        },
+        "line": 10
+      },
+      "1": {
+        "name": "App",
+        "decl": {
+          "start": {
+            "line": 21,
+            "column": 9
+          },
+          "end": {
+            "line": 21,
+            "column": 12
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 15
+          },
+          "end": {
+            "line": 36,
+            "column": 1
+          }
+        },
+        "line": 21
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 47,
+            "column": 52
+          },
+          "end": {
+            "line": 47,
+            "column": 53
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 47,
+            "column": 58
+          },
+          "end": {
+            "line": 50,
+            "column": 5
+          }
+        },
+        "line": 47
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 0
+          },
+          "end": {
+            "line": 14,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 4,
+              "column": 0
+            },
+            "end": {
+              "line": 14,
+              "column": 1
+            }
+          },
+          {
+            "start": {
+              "line": 4,
+              "column": 0
+            },
+            "end": {
+              "line": 14,
+              "column": 1
+            }
+          }
+        ],
+        "line": 4
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2
+          },
+          "end": {
+            "line": 7,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 5,
+              "column": 2
+            },
+            "end": {
+              "line": 7,
+              "column": 3
+            }
+          },
+          {
+            "start": {
+              "line": 5,
+              "column": 2
+            },
+            "end": {
+              "line": 7,
+              "column": 3
+            }
+          }
+        ],
+        "line": 5
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 42,
+            "column": 0
+          },
+          "end": {
+            "line": 52,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 42,
+              "column": 0
+            },
+            "end": {
+              "line": 52,
+              "column": 1
+            }
+          },
+          {
+            "start": {
+              "line": 42,
+              "column": 0
+            },
+            "end": {
+              "line": 52,
+              "column": 1
+            }
+          }
+        ],
+        "line": 42
+      },
+      "3": {
+        "loc": {
+          "start": {
+            "line": 46,
+            "column": 2
+          },
+          "end": {
+            "line": 51,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 46,
+              "column": 2
+            },
+            "end": {
+              "line": 51,
+              "column": 3
+            }
+          },
+          {
+            "start": {
+              "line": 46,
+              "column": 2
+            },
+            "end": {
+              "line": 51,
+              "column": 3
+            }
+          }
+        ],
+        "line": 46
+      }
+    },
+    "s": {
+      "0": 4,
+      "1": 4,
+      "2": 0,
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 4,
+      "7": 4,
+      "8": 4,
+      "9": 4,
+      "10": 13,
+      "11": 13,
+      "12": 9,
+      "13": 4,
+      "14": 4,
+      "15": 4,
+      "16": 4,
+      "17": 4,
+      "18": 4,
+      "19": 4,
+      "20": 4,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    },
+    "f": {
+      "0": 4,
+      "1": 13,
+      "2": 0
+    },
+    "b": {
+      "0": [
+        4,
+        0
+      ],
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        4,
+        0
+      ],
+      "3": [
+        0,
+        4
+      ]
+    },
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": ";;;;;;;;;;;;;;;AAAA;AAEA;AACA;AAEA;;AAEA,eAAe;AAAA;AACb,QAAM,CAACA,OAAOC,YAAYC,SAAS;AAEnC,SACE;AAAA,IAAK,WAAU;AAAA,IAAf,UACI,wBAAC,MAAD;AAAA;AAAA;AAAA;AAAA;AAAA,KADJ;AAAA;AAAA;AAAA;AAAA;AAAA;GAJKC;KAAAA;AAUT,eAAeA;;;;;;;;;;;;;;",
+      "names": [
+        "count",
+        "setCount",
+        "useState",
+        "App"
+      ],
+      "sources": [
+        "/wk2021/projects2021/ions-front-end/ts-react-01/myTSreactjs01/src/App.tsx"
+      ]
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "adee19b95afc6ac91bc5ab819b65e4f152db148a"
+  }
+}

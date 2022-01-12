@@ -1,0 +1,30 @@
+{
+  "name": "mytsreactjs01",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "npx cypress open-ct",
+    "test:ci": "npx cypress run-ct"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.1.0",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.9.12",
+    "@cypress/react": "^5.12.1",
+    "@cypress/vite-dev-server": "^2.2.2",
+    "@testing-library/cypress": "^8.0.2",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "cypress": "^9.2.1",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2",
+    "vite-plugin-istanbul": "^2.3.0"
+  }
+}
