@@ -4,7 +4,7 @@ import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap'
 export interface IFooterProps {
 }
 
-export interface IFooterState {
+export interface IFooterState  {
 }
 
 export default class Header extends React.Component<IFooterProps, IFooterState> {
