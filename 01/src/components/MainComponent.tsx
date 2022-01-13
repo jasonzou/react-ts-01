@@ -20,12 +20,13 @@ const Main = () => {
       <div>
         <Header />
         {dishes.map(
-          ({id, name, image }) => (
-            <p>
-          <div>{id}</div>
-          <div>{name}</div>
-          <img src={image} />
-          </p>
+          ///({id, name, image }) => (
+          (dish) => (
+            <div>
+
+          <Menu dish={dish} />
+            </div>
+          
         ))}
         <Button>Hello</Button>
         <Footer />
