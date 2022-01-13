@@ -4,9 +4,12 @@ import { DishType } from '../shared/dishes';
 
 interface DishProps {
   dish: DishType,
+  OnClick?: () => void
 }
 
-const RenderMenuItem: React.FunctionComponent<DishProps> = ({ dish }):JSX.Element => {
+
+
+const RenderMenuItem: React.FunctionComponent<DishProps> = ({dish}):JSX.Element => {
  return (
  <Card>
     <Card.Img width="100%" src={dish.image} alt={dish.name} />
